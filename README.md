@@ -1,3 +1,4 @@
+
 Amazon Sales 2025 Performance Dashboard
 Project Summary
 This project delivers a complete Power BI solution for analyzing E-commerce Sales Performance using a dataset of 1,500+ records. It provides immediate business insights into financial health, operational efficiency, and product performance.
